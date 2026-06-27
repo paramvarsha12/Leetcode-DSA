@@ -11,7 +11,7 @@ Leetcode..
 ......
 ssssaaaa
 ........aaa
-........hh
+........hhsss
 ........ddd
 ......
 ......xxx
