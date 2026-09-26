@@ -5,6 +5,6 @@ Leetcode..
 .........sssss
 .....asas
 rqrqqrqr
-eqeeqe
+eqeeqes
 qeqeqeqe
 ssssss
